@@ -16,10 +16,11 @@ If you find a mistake or want to suggest an edit, please create an issue or pull
 
 ## Learning Resources
 
-March 2016 Hack Day Beginner Tutorial:
+March 2016 Hack Day
 
-* [Slides](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
-* [Code](https://github.com/leahgarrett/hack-day-tutorial)
+* Installing Go [Slides](https://docs.google.com/presentation/d/1-71yD-MNlg44ve6hj4BBrgB7RDt2DY1irgQAMyTZJs8/edit?usp=sharing)
+* Beginner Tutorial [Slides](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
+* Beginner Tutorial [Code](https://github.com/leahgarrett/hack-day-tutorial)
 
 Reading:
 
