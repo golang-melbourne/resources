@@ -1,6 +1,8 @@
 # Melbourne Golang Resources
 
-We’ll try to keep this up-to-date for members of our Melbourne Golang meetup group.
+We’ll try to keep this up-to-date for members of our [Melbourne Golang meetup group](http://www.meetup.com/golang-mel/).
+
+Catch us online at __#australia__ in the [Gophers Slack community](https://blog.gopheracademy.com/gophers-slack-community/).
 
 If you find a mistake or want to suggest an edit, please create an issue or pull request :)
 
@@ -51,5 +53,8 @@ Example Code:
 
 _Disclaimer: it's more of a "things people from Melbourne have contributed to" list_
 
-* [Igor](https://github.com/ArjenSchwarz/igor) by Arjen Schwarz
-    A Slack bot, written in Go, which runs on AWS Lambda
+* [Igor by Arjen Schwarz](https://github.com/ArjenSchwarz/igor)
+    A Slack bot, written in Go, which runs on AWS Lambda.
+
+* [AWS Vault by 99Designs](https://github.com/99designs/aws-vault)
+    A vault for securely storing and accessing AWS credentials in development environments.
