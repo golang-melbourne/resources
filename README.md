@@ -58,8 +58,6 @@ Example Code:
 
 ## Made in Melbourne
 
-_Disclaimer: it's more of a "things people from Melbourne have contributed to" list_
-
 * [Igor by Arjen Schwarz](https://github.com/ArjenSchwarz/igor)
     A Slack bot, written in Go, which runs on AWS Lambda.
 
