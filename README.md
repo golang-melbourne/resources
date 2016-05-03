@@ -3,8 +3,9 @@
 We’ll try to keep this up-to-date for members of our [Melbourne Golang meetup group](http://www.meetup.com/golang-mel/).
 
 Catch us online at __#australia__ in the [Gophers Slack community](https://blog.gopheracademy.com/gophers-slack-community/).
+Also check out: __#golang-newbies__ and __#golang-jobs__
 
-If you find a mistake or want to suggest an edit, please create an issue or pull request :)
+If you find a mistake here or want to suggest an edit, please create an issue or pull request :)
 
 ## Latest News
 
