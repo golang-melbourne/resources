@@ -56,5 +56,8 @@ _Disclaimer: it's more of a "things people from Melbourne have contributed to" l
 * [Igor by Arjen Schwarz](https://github.com/ArjenSchwarz/igor)
     A Slack bot, written in Go, which runs on AWS Lambda.
 
+* [l7proxify by Mark Wolfe](https://github.com/wolfeidau/l7proxify)
+    Transparently proxy TLS traffic traversing a NAT host.
+
 * [AWS Vault by 99Designs](https://github.com/99designs/aws-vault)
     A vault for securely storing and accessing AWS credentials in development environments.
