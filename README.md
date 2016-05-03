@@ -14,11 +14,18 @@ If you find a mistake or want to suggest an edit, please create an issue or pull
 
 * [Go 1.6.1 & 1.5.4 security release](https://groups.google.com/forum/#!topic/golang-announce/9eqIHqaWvck)
 
-## Beginners
+## Learning Resources
 
-March 2016 Hack Day Beginner Tutorial
+March 2016 Hack Day Beginner Tutorial:
 
 * [Slides](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
 * [Code](https://github.com/leahgarrett/hack-day-tutorial)
 
+Reading:
 
+* [2016 Best Practices](https://peter.bourgon.org/go-best-practices-2016/) by Peter Bourgon
+* [Golang Book](https://www.golang-book.com/books/intro) - an updated version will be available from [O'Reilly](http://shop.oreilly.com/product/0636920046516.do) next year.
+
+Example Code:
+
+* [Bradley Falzon RFC Bot](https://github.com/bradleyfalzon/rfc-bot) - a example bot to autopost recently published RFCs to social media.
