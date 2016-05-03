@@ -21,7 +21,7 @@ If you find a mistake here or want to suggest an edit, please create an issue or
 
 ## Learning Resources
 
-March 2016 Hack Day
+March 2016 Hack Day:
 
 * [Installing Go](https://docs.google.com/presentation/d/1-71yD-MNlg44ve6hj4BBrgB7RDt2DY1irgQAMyTZJs8/edit?usp=sharing)
     Get Go up and running on your machine.
@@ -29,7 +29,7 @@ March 2016 Hack Day
 * [Beginner Tutorial using Weather API](https://docs.google.com/presentation/d/1ZA-c7yi-ojTWCFmNj27L2TMuedzhC31Lv5g9JZNzPFo/edit?usp=sharing)
     Create a weather app that displays weather data near Melbourne using an external API. The code for this tutorial is available [on GitHub](https://github.com/leahgarrett/hack-day-tutorial).
 
-Official Go guides:
+Official Go Docs:
 
 * [A tour of Go](https://tour.golang.org/welcome/1)
     A step by step tour of the Go language with interactive examples. Covers basic syntax, data structures, methods, interfaces and concurrency.
@@ -37,10 +37,16 @@ Official Go guides:
 * [Effective Go](https://golang.org/doc/effective_go.html)
     Tips for writing clear, __idiomatic__ Go code. A great follow-up to the tour (linked above).
 
-Reading:
+Other Resources:
 
 * [2016 Best Practices](https://peter.bourgon.org/go-best-practices-2016/)
-    A great article by Peter Bourgon
+    A great article by Peter Bourgon.
+
+* [Go By Example](https://gobyexample.com/)
+    A hands-on introduction to Go using annotated example programs.
+
+* [Awesome Go](https://github.com/avelino/awesome-go)
+    A curated list of awesome Go frameworks, libraries and software.
 
 * [Golang Book](https://www.golang-book.com/books/intro)
     Note: an updated version will be available from [O'Reilly](http://shop.oreilly.com/product/0636920046516.do) next year.
