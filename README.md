@@ -51,6 +51,11 @@ Other Resources:
 * [Golang Book](https://www.golang-book.com/books/intro)
     Note: an updated version will be available from [O'Reilly](http://shop.oreilly.com/product/0636920046516.do) next year.
 
+Tutorials:
+
+* [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
+    How to test at the HTTP layer using the standard library net/http with cookie support so you can test a full user interaction.
+
 Example Code:
 
 * [Bradley Falzon RFC Bot](https://github.com/bradleyfalzon/rfc-bot)
